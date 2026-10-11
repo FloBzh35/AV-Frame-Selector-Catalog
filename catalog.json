@@ -17,6 +17,18 @@
       "source": "https://www.extron.com/product/tlppro535m"
     },
     {
+      "id": "extron-tlp-pro-535m pour test",
+      "brand": "Extron",
+      "model": "TLP Pro 535M_test",
+      "width": 1280,
+      "height": 720,
+      "size": 5.5,
+      "mounting": "Mural",
+      "status": "actif",
+      "orientation": "both",
+      "source": "https://www.extron.com/product/tlppro535m"
+    },
+    {
       "id": "extron-tlp-pro-835m",
       "brand": "Extron",
       "model": "TLP Pro 835M",
