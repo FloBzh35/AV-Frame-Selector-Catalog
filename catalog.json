@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026.10.11",
+  "version": "2026.10.11-test",
   "updatedAt": "2026-10-11",
   "description": "Catalogue initial de résolutions matérielles vérifiées auprès des fabricants (sélection documentée, non exhaustive).",
   "devices": [
@@ -17,7 +17,7 @@
       "source": "https://www.extron.com/product/tlppro535m"
     },
     {
-      "id": "extron-tlp-pro-535m",
+      "id": "extron-tlp-pro-535m-test",
       "brand": "Extron",
       "model": "TLP Pro 535M_test",
       "width": 1280,
